@@ -48,8 +48,4 @@ When run against a target like Metasploitable2, the tool detects 20+ open servic
 
 This tool is designed to speed up the initial reconnaissance phase of a penetration test. Instead of manually cross-referencing every detected service version against known vulnerabilities, the AI provides an immediate, human-readable triage report, helping a pentester decide where to focus first.
 
-## Disclaimer
-
-This tool is intended strictly for authorized penetration testing and educational purposes. Only use it against systems you own or have explicit written permission to test.
-
 Mahnoor Saleem — BSCS Student 
